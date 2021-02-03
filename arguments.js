@@ -1,4 +1,4 @@
-// add n number of elements
+// add n number of elements(arguments is a array like object)
 function add(num1, num2){
     console.log([...arguments]);
     sum = 0;
